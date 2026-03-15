@@ -19,9 +19,9 @@ With this guide you will be able to:
 
 1. Please Check the [VMware ESXi Compatability Guide](https://www.vmware.com/resources/compatibility/search.php) to Confirm Compatability with your System
 
-2. ESXi 8.0 [Hardware Requirements](https://docs.vmware.com/en/VMware-vSphere/8.0/vsphere-esxi-installation/GUID-DEB8086A-306B-4239-BF76-E354679202FC.html)
+2. ESXi 8.0 [Hardware Requirements](https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/8-0/esx-installation-and-setup/installing-and-setting-up-esxi-install/esxi-requirements-install/esxi-hardware-requirements-install.html)
   
-2. Download the [VMware vSphere Hypervisor (ESXi) Image](https://customerconnect.vmware.com/evalcenter?p=vsphere-eval-8)
+2. Download the [VMware vSphere Hypervisor (ESXi) Image](https://knowledge.broadcom.com/external/article?articleNumber=372545)
 
 4. Format a **Bootable** Device (USB, CD, etc.)
    
